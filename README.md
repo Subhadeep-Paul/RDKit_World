@@ -19,6 +19,6 @@ These tutorials are inspired from work of Patrick Walters. My deepest respect an
 
 ## Badges
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([https://choosealicense.com/licenses/mit/](https://raw.githubusercontent.com/Subhadeep-Paul/RDKit_World/refs/heads/main/LICENSE.txt))
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([https://raw.githubusercontent.com/Subhadeep-Paul/RDKit_World/refs/heads/main/LICENSE.txt])
 
 
